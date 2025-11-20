@@ -36,9 +36,12 @@ Aplikacja została przygotowana z myślą o urządzeniach mobilnych:
 
 Aby uruchomić projekt na swoim komputerze, wykonaj poniższe kroki:
 
-1.  **Pobierz repozytorium** (lub rozpakuj pliki projektu).
-2.  Otwórz terminal w głównym katalogu projektu.
-3.  **Pobierz zależności:**
+1. **Utworz nowy projekt we Flutterze**
+2. **Pobierz katalog lib oraz pubspec.yaml** 
+3. **Podmień katalog lib w nowo utworzonym projekcie**
+4. **Podmień plik pubspec.yaml**
+5.  Otwórz terminal w głównym katalogu projektu.
+6.  **Pobierz zależności:**
     ```bash
     flutter pub get
     ```
