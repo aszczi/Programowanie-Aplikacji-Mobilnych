@@ -1,4 +1,4 @@
-#Fiszki
+# Fiszki
 
 Aplikacja edukacyjna stworzona we frameworku **Flutter**, służąca do efektywnej nauki słówek z języka angielskiego. Projekt wykorzystuje interaktywne fiszki, zewnętrzne API oraz lokalną bazę danych, aby zapewnić płynne działanie zarówno online, jak i offline.
 
@@ -50,3 +50,4 @@ Aby uruchomić projekt na swoim komputerze, wykonaj poniższe kroki:
     ```bash
     flutter run
     ```
+
